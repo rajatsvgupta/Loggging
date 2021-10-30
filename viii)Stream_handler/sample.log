@@ -1,0 +1,8 @@
+__main__:DEBUG:the sum of (10, 0) is 10
+__main__:DEBUG:the multiplication of (10, 0) is 0
+__main__:ERROR:x divided by 0
+Traceback (most recent call last):
+  File "C:\Users\hp\Desktop\important\python_p\waste\logging\Stream_handler\stream_handler_printing_in_console.py", line 29, in div
+    r=x / y
+ZeroDivisionError: division by zero
+__main__:DEBUG:the division  of (10, 0) is None
