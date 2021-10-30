@@ -1,0 +1,5 @@
+__main__:DEBUG:the sum of (10, 0) is 10
+__main__:DEBUG:the multiplication of (10, 0) is 0
+__main__:DEBUG:the subtraction of (10, 0) is 10
+__main__:ERROR:10 divided by 0
+__main__:DEBUG:the division  of (10, 0) is None
