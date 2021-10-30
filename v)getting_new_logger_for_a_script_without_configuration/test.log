@@ -1,0 +1,8 @@
+root:INFO:employee created with name Rajat Gupta and have mail id Rajat.Gupta@email.com
+__main__:INFO:employee created with name Rajat Gupta and have mail id Rajat.Gupta@email.com
+root:INFO:employee created with name Rajat Gupta and have mail id Rajat.Gupta@email.com
+Employee_basic_with_logger:INFO:employee created with name Rajat Gupta and have mail id Rajat.Gupta@email.com
+root:DEBUG:the sum of (10, 5) is 15
+root:DEBUG:the multiplication of (10, 5) is 50
+root:DEBUG:the subtraction of (10, 5) is 5
+root:DEBUG:the division  of (10, 5) is 2.0
