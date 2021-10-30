@@ -1,0 +1,5 @@
+2021-10-30 19:37:32,868:DEBUG:root:the sum of (10, 5) is 15
+2021-10-30 19:37:32,869:DEBUG:root:the multiplication of (10, 5) is 50
+2021-10-30 19:37:32,869:DEBUG:root:the subtraction of (10, 5) is 5
+2021-10-30 19:37:32,870:DEBUG:root:the division  of (10, 5) is 2.0
+2021-10-30 19:37:32,887:INFO:root:employee created with name Rajat Gupta and have mail id Rajat.Gupta@email.com
