@@ -1,0 +1,4 @@
+__main__:DEBUG:the sum of (10, 5) is 15
+__main__:DEBUG:the multiplication of (10, 5) is 50
+__main__:DEBUG:the subtraction of (10, 5) is 5
+__main__:DEBUG:the division  of (10, 5) is 2.0
